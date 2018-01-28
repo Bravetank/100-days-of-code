@@ -23,6 +23,6 @@ January 28th, 2018.
 
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [r1-Log - click here to see my progress](r1-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
