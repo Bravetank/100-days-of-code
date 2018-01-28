@@ -9,8 +9,8 @@ January 28th, 2018.
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress. - EDIT - I will be doing point 4 below and linking to either a tweet or a blog post instead.
-4. I will update the (R1-Log)[ri-log.md] with the day's progress and provide a link so that others can see my progress.
+3. I will push code to GitHub every day so that anyone can see my progress. - NOTE - I will instead be doing point 4 below and linking to either a tweet or a blog post.
+4. I will update the R1-Log [r1-log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
