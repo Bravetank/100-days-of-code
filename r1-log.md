@@ -9,3 +9,6 @@ Added user authentication to tracker application using Passport.
 
 ### R1D2
 Changed data models after reconsidering information I need to capture from the user. Made some UI changes and ensured that only logged in users can record information. 
+
+### R1D3
+Completed Treatment and Comment Edit and Delete routes including ensuring only logged in authorised users can edit/delete certain comments. Ran into difficulty with author.id not being saved to the database. Turned out to be due to a typo. Grrr. In trying to fix it tried displaying Username in Comments -  not sure I like it as I'm using this as side effect update so will always be same user. Will need to remove. Completed Trello Board for Mission 2 of CodeMore. Have basically planned tracker work for next month. Also wrote short post on APIs on Medium.   
