@@ -19,3 +19,5 @@ Finished refactoring middleware, added Connect-Flash error messages and a slidin
 ### Day 5
 Deployed app to Heroku and started using MLabs. Tested. It works. Very happy.
 
+### Day 6 
+Did some exercises on manipulating the DOM, selectors, changing attributes etc.
