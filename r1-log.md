@@ -21,3 +21,6 @@ Deployed app to Heroku and started using MLabs. Tested. It works. Very happy.
 
 ### Day 6 
 Did some exercises on manipulating the DOM, selectors, changing attributes etc.
+
+### Day 7 
+More exercises on manipulating the DOM, selectors, changing attributes etc. Completed Scorekeeper demo from the course and uploaded to Github.
