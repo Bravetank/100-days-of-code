@@ -24,3 +24,6 @@ Did some exercises on manipulating the DOM, selectors, changing attributes etc.
 
 ### Day 7 
 More exercises on manipulating the DOM, selectors, changing attributes etc. Completed Scorekeeper demo from the course and uploaded to Github.
+
+### Day 8 
+More exercises on the DOM, this time working on the Color Selector game in Colt Steele's Web Developer Bootcamp course. Good refresher on Math.random & Math.floor.
