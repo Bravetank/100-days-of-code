@@ -30,3 +30,6 @@ More exercises on the DOM, this time working on the Color Selector game in Colt 
 
 ### Day 9 
 Still working on the Color Selector game but also did two FCC Algorithm challenges and started looking into D3 for the data visualisation part of the application. 
+
+### Day 10
+Finally finished Color Selector game. Also tweaked some code in the main application I'm working on but needs more work. Updated Trello to detail what will need to be done but not scheduled this yet as now need to move onto JQuery to stay on track. 
