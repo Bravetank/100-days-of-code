@@ -27,3 +27,6 @@ More exercises on manipulating the DOM, selectors, changing attributes etc. Comp
 
 ### Day 8 
 More exercises on the DOM, this time working on the Color Selector game in Colt Steele's Web Developer Bootcamp course. Good refresher on Math.random & Math.floor.
+
+### Day 8 
+Still working on the Color Selector game but also did two FCC Algorithm challenges and started looking into D3 for the data visualisation part of the application. 
