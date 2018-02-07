@@ -33,3 +33,6 @@ Still working on the Color Selector game but also did two FCC Algorithm challeng
 
 ### Day 10
 Finally finished Color Selector game. Also tweaked some code in the main application I'm working on but needs more work. Updated Trello to detail what will need to be done but not scheduled this yet as now need to move onto JQuery to stay on track. 
+### Day 11
+Started on JQuery and completed some FCC exercises. 
+
