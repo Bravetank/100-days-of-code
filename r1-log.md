@@ -40,3 +40,10 @@ Started on JQuery and completed some FCC exercises.
 ### Day 12
 Started Introduction to Software Product Management course on Coursera.
 
+### Day 13
+Did some jQuery exercises and continued with Introduction to Software Product Management course.
+
+### Day 14
+Did some Code Academy Ruby exercises as prep for EdX course Agile Development using Ruby on Rails - a change of direction from JS but one from which I think I'll benefit 
+
+
