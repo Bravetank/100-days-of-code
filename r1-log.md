@@ -46,4 +46,7 @@ Did some jQuery exercises and continued with Introduction to Software Product Ma
 ### Day 14
 Did some Code Academy Ruby exercises as prep for EdX course Agile Development using Ruby on Rails - a change of direction from JS but one from which I think I'll benefit 
 
+### Day 15
+Continued with Code Academy Ruby exercises and EdX course Agile Development using Ruby on Rails course (half way through Week 1).
+
 
