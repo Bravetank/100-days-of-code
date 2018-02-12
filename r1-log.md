@@ -49,4 +49,7 @@ Did some Code Academy Ruby exercises as prep for EdX course Agile Development us
 ### Day 15
 Continued with Code Academy Ruby exercises and EdX course Agile Development using Ruby on Rails course (half way through Week 1).
 
+### Day 16
+Continued with Code Academy Ruby exercises because I've discovered I love Ruby!
+
 
