@@ -44,12 +44,23 @@ Started Introduction to Software Product Management course on Coursera.
 Did some jQuery exercises and continued with Introduction to Software Product Management course.
 
 ### Day 14
-Did some Code Academy Ruby exercises as prep for EdX course Agile Development using Ruby on Rails - a change of direction from JS but one from which I think I'll benefit 
+Did some Codeacademy Ruby exercises as prep for EdX course Agile Development using Ruby on Rails - a change of direction from JS but one from which I think I'll benefit 
 
 ### Day 15
-Continued with Code Academy Ruby exercises and EdX course Agile Development using Ruby on Rails course (half way through Week 1).
+Continued with Codeacademy Ruby exercises and EdX course Agile Development using Ruby on Rails course (half way through Week 1).
 
 ### Day 16
-Continued with Code Academy Ruby exercises because I've discovered I love Ruby!
+Continued with Codeacademy Ruby exercises.
+
+### Day 17
+More Codeacademy Ruby exercises.
+
+### Day 18
+No coding (permitted one day off but not two in a row).
+
+### Day 19
+Codeacademy Ruby exercises & EdX Agile Development course. 
+
+
 
 
