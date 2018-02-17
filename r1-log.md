@@ -59,7 +59,13 @@ More Codeacademy Ruby exercises.
 No coding (permitted one day off but not two in a row).
 
 ### Day 19
-Codeacademy Ruby exercises & EdX Agile Development course. 
+Codeacademy Ruby exercises & EdX Agile Development course.
+
+### Day 20
+Working on Java Web Development track on Treehouse creating the Gif Library Spring web application.
+
+### Day 21
+Continued working on Java Web Development track on Treehouse creating the Gif Library Spring web application & also did some refresher Java Object exercises.
 
 
 
