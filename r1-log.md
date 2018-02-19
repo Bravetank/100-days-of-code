@@ -67,6 +67,12 @@ Working on Java Web Development track on Treehouse creating the Gif Library Spri
 ### Day 21
 Continued working on Java Web Development track on Treehouse creating the Gif Library Spring web application & also did some refresher Java Object exercises.
 
+### Day 22
+Continued with refresher on Java Objects - PezDispenser exercise. 
+
+### Day 22
+Moved onto Java Data Structures refresher - coded Hangman game, InspirationQuotes and started work on FilmSelector (latter two my versions of Treehouse Treet exercise and Karaoke Machine exercise).
+
 
 
 
