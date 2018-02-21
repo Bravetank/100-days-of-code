@@ -73,6 +73,14 @@ Continued with refresher on Java Objects - PezDispenser exercise.
 ### Day 23
 Moved onto Java Data Structures refresher - coded Hangman game, InspirationQuotes and started work on FilmSelector (latter two my versions of Treehouse Treet exercise and Karaoke Machine exercise).
 
+### Day 24
+Finished Java Data Structures refresher and FilmSelector. 
+
+### Day 25
+Moved onto Treehouse IDE course & learned IntelliJ tips and tricks! 
+
+
+
 
 
 
