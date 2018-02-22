@@ -79,6 +79,9 @@ Finished Java Data Structures refresher and FilmSelector.
 ### Day 25
 Moved onto Treehouse IDE course & learned IntelliJ tips and tricks! 
 
+### Day 26
+Moved onto Treehouse Java GUI course. 
+
 
 
 
