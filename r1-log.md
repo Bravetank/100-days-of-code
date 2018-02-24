@@ -82,6 +82,12 @@ Moved onto Treehouse IDE course & learned IntelliJ tips and tricks!
 ### Day 26
 Moved onto Treehouse Java GUI course. 
 
+### Day 27
+Continued work on Treehouse Java GUI course. 
+
+### Day 28
+Completed work on Treehouse Java GUI course & moved onto Java Unit Testing. 
+
 
 
 
