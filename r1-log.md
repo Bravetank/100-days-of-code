@@ -88,6 +88,9 @@ Continued work on Treehouse Java GUI course.
 ### Day 28
 Completed work on Treehouse Java GUI course & moved onto Java Unit Testing. 
 
+### Day 29
+Finished Treehouse Java Unit Testing course. 
+
 
 
 
