@@ -91,6 +91,9 @@ Completed work on Treehouse Java GUI course & moved onto Java Unit Testing.
 ### Day 29
 Finished Treehouse Java Unit Testing course. 
 
+### Day 30
+Started work on a new Spring application to practice the basics.
+
 
 
 
