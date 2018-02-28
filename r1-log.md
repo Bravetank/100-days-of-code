@@ -94,6 +94,14 @@ Finished Treehouse Java Unit Testing course.
 ### Day 30
 Started work on a new Spring application to practice the basics.
 
+### Day 31
+Finished basic version of new Spring application. 
+
+### Day 32
+Started learning Hibernate. 
+
+
+
 
 
 
