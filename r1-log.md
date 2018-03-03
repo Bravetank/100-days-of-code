@@ -100,6 +100,14 @@ Finished basic version of new Spring application.
 ### Day 32
 Started learning Hibernate. 
 
+### Day 33
+Chemo side effects - to ill to code
+
+### Day 34
+Chemo side effects - to ill to code
+
+### Day 35
+Some refresher HTML/CSS on Treehouse and Java on Pluralsight
 
 
 
